@@ -1,0 +1,1 @@
+document.querySelector(".footer").innerHTML = "© 2022, Quốc Hưng"; 

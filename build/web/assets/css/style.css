@@ -1,0 +1,17 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.header {
+    background: bottom / cover no-repeat url('../img/bg.png');
+    color: #fff;
+    text-align: center;
+    padding: 3rem;
+}
+
+.footer {
+    background: bottom / cover no-repeat url(../img/bg.png);
+    padding: 2rem;
+    color: #fff;
+    text-align: center;
+}
