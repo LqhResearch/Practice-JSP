@@ -84,4 +84,23 @@ public class Basic {
         }
         return sum;
     }
+
+    public static String DecToBin(int n) {
+        String str = "";
+        while (n != 0) {
+            str += (n % 2);
+            n /= 2;
+        }
+        return new StringBuffer(str).reverse().toString();
+    }
+
+    public static String PrimeAToB(int a, int b) {
+        String str = "";
+        for (int i = a; i <= b; i++) {
+            if (IsPrime(i)) {
+                str += i + "  ";
+            }
+        }
+        return str;
+    }
 }

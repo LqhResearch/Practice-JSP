@@ -33,6 +33,9 @@
                         <a class="nav-link active" href="/JavaServlet/prime.jsp">Số nguyên tố</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link active" href="/JavaServlet/base.jsp">Chuyển đổi cơ số</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link active" href="/JavaServlet/sum1n.jsp">Tổng 1 đến n</a>
                     </li>
                 </ul>
