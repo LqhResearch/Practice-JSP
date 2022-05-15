@@ -5,7 +5,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     </head>
     <body>
-        <div class="mt-5 footer"></div>
+        <div class="mt-5 footer">© 2022, Quốc Hưng</div>
         <script src="assets/js/main.js"></script>
     </body>
 </html>
